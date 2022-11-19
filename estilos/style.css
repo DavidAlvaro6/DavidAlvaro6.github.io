@@ -1,5 +1,6 @@
 body{ 
-    background-image: url("mar.jpg")
+    background-image: url("mar.jpg");
+    background-size: cover;
     margin-top: 1cm;
 }
 p {
